@@ -1,0 +1,18 @@
+@import '../@/styles/_variables.scss';
+@import '../@/styles/_keyframe-animations.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f1f3f4;
+  color: #111;
+}
